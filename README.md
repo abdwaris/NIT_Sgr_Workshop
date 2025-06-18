@@ -1,6 +1,5 @@
-# NIT_Sgr_Workshop
+# Five Day Workshop - Introduction to FEM and ML in Geotechnical Engineering
 16th-20th June 2025
-
 
 Reference journal papers:
 
